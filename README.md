@@ -1,2 +1,2 @@
-# crumpledballs
-project24
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
